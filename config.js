@@ -1,7 +1,7 @@
 import fs from "fs";
 import chalk from "chalk";
 
-global.owner = ["258833406646", "258871168283"];
+global.owner = ["+94702782946", "+94702782946"];
 
 global.sessionName = "Sessions/Owner";
 global.version = "1.0";
@@ -29,7 +29,7 @@ global.bot = {
   github: "https://github.com/ayancodex503/QUEEN-NAZUMA-MINI",
 };
 
-global.mods = ["258833406646", "258871168283"];
+global.mods = ["+94702782946", "+94702782946"];
 
 global.mess = {
   socket: "🛡 This command can only be executed by the Socket.",
